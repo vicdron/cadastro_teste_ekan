@@ -3,7 +3,6 @@ Aplicação de Cadastro de Beneficiários de Plano de Saúde
 Está aplicação foi desenvolvida utilizando Java e Spring Boot para fornecer uma API REST para cadastro de beneficiarios de um plano de saúde
 Diagrama do Projeto
 
-
 Configurando o Ambiente de Desenvolvimento
 Certifique-se de ter o Java JDK 17 e o Maven instalados no seu sistema.
 Instalação do maven no ubuntu
@@ -25,10 +24,10 @@ Tecnologias Utilizadas
 
 Funcionalidades da API
 
-POST /beneficiarios              (Cadastrar um beneficiário)
-GET /beneficiarios                 (Listar todos os beneficiários)
-GET /documento{id}              (Listar todos os documentos de um beneficiário)
-PUT /beneficiario{id}             (Atualizar os dados cadastrais de um beneficiário)
-DELETE /beneficiario{id}      (Remover um beneficiário)
+POST /beneficiarios        -------   Cadastrar um beneficiário
+GET /beneficiarios         -------   Listar todos os beneficiários
+GET /documento{id}         --------  Listar todos os documentos de um beneficiário
+PUT /beneficiario{id}      --------  Atualizar os dados cadastrais de um beneficiário
+DELETE /beneficiario{id}   --------  Remover um beneficiário
 
 
