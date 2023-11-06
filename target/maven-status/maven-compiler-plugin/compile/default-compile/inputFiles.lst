@@ -1,0 +1,10 @@
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/entities/Documento.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/repository/DocumentoRepository.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/config/TestConfig.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/services/DocumentoService.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/Application.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/controller/BeneficiarioController.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/controller/DocumentoController.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/services/BeneficiarioService.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/entities/Beneficiario.java
+/home/victor/workspace/cadastro_teste_ekan/src/main/java/teste/ekan/cadastro/repository/BeneficiarioRepository.java
